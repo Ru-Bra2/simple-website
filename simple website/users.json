@@ -1,0 +1,13 @@
+[
+    {
+        "name": "John Doe",
+        "photo": "https://via.placeholder.com/80",
+        "bio": "A software engineer who loves coding."
+    },
+    {
+        "name": "Jane Smith",
+        "photo": "https://via.placeholder.com/80",
+        "bio": "A digital artist passionate about design."
+    }
+]
+
